@@ -9,18 +9,22 @@ This release was released at {YYYY-MM-DD HH:MM}.
 🌟 Added
 
 - [#{ISSUE_NUMBER}]({ISSUE_LINK}) -- {ISSUE_DESCRIPTION}
+- Nothing.
 
 📝 Changed
 
 - [#{ISSUE_NUMBER}]({ISSUE_LINK}) -- {ISSUE_DESCRIPTION}
+- Nothing.
 
 🐛 Fixed
 
 - [#{ISSUE_NUMBER}]({ISSUE_LINK}) -- {ISSUE_DESCRIPTION}
+- Nothing.
 
 ❌ Removed
 
 - [#{ISSUE_NUMBER}]({ISSUE_LINK}) -- {ISSUE_DESCRIPTION}
+- Nothing.
 
 ---
 
