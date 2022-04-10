@@ -29,3 +29,5 @@ This release was released at {YYYY-MM-DD HH:MM}.
 ---
 
 If you have any issues with this release, please report them using the Issues tab, although please first ensure the problem is reproducable with documented steps.
+
+Using [othyn/changelog-release-template](https://github.com/othyn/changelog-release-template).
