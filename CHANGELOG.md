@@ -1,8 +1,8 @@
 # v{X.Y.Z} - {RELEASE_TITLE}
 
-This release was released at {YYYY-MM-DD HH:MM}.
+🕒 This release was released at {YYYY-MM-DD HH:MM}.
 
-{RELEASE_DESCRIPTION}.
+📓 {RELEASE_DESCRIPTION}.
 
 ---
 
