@@ -1,29 +1,32 @@
-# v{X.Y.Z} - {RELEASE_TITLE}
+<!-- Release title should be: vX.Y.Z -->
 
 🕒 This release was released at {YYYY-MM-DD HH:MM}.
 
 📓 {RELEASE_DESCRIPTION}.
 
+<!-- Autofill below this line with GitHub's new auto-generate release notes feature, just to add the diff between release tags link -->
+<!-- E.g. **Full Changelog**: https://github.com/othyn/my-repo/compare/v1.2.3...v1.2.4 -->
+
 ---
 
 🌟 Added
 
-- [#{ISSUE_NUMBER}]({ISSUE_LINK}) -- {ISSUE_DESCRIPTION}.
+<!-- - [#{ISSUE_NUMBER}]({ISSUE_LINK}) -- {ISSUE_DESCRIPTION}. -->
 - Nothing.
 
 📝 Changed
 
-- [#{ISSUE_NUMBER}]({ISSUE_LINK}) -- {ISSUE_DESCRIPTION}.
+<!-- - [#{ISSUE_NUMBER}]({ISSUE_LINK}) -- {ISSUE_DESCRIPTION}. -->
 - Nothing.
 
 🐛 Fixed
 
-- [#{ISSUE_NUMBER}]({ISSUE_LINK}) -- {ISSUE_DESCRIPTION}.
+<!-- - [#{ISSUE_NUMBER}]({ISSUE_LINK}) -- {ISSUE_DESCRIPTION}. -->
 - Nothing.
 
 ❌ Removed
 
-- [#{ISSUE_NUMBER}]({ISSUE_LINK}) -- {ISSUE_DESCRIPTION}.
+<!-- - [#{ISSUE_NUMBER}]({ISSUE_LINK}) -- {ISSUE_DESCRIPTION}. -->
 - Nothing.
 
 ---
